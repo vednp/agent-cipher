@@ -47,4 +47,4 @@ Please ensure that your code follows the project's coding standards and includes
 
 ## License
 
-Agent Cipher is released under the [license name]. For more information, please see the [LICENSE](LICENSE) file in the repository.
+Agent Cipher is released under the MIT License. For more information, please see the [LICENSE](LICENSE) file in the repository.
